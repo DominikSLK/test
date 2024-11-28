@@ -1,10 +1,10 @@
 [
     {
         "engine": 3,
-        "name": "CFX Default FiveM with SEX",
+        "name": "CFX Default FiveM Spaceify",
         "tags": ["fivem"],
         "description": "Just the base resources required to run a FiveM server.",
-        "url": "https://raw.githubusercontent.com/tabarra/CFX-Default-recipe/main/recipe.yaml"
+        "url": "https://raw.githubusercontent.com/DominikSLK/test/refs/heads/main/recipe.yaml"
     },
     {
         "engine": 3,
